@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+La aplicación es un encriptador desarrollado con fines didácticos, lo que implica que su objetivo principal es educativo y proporcionar una experiencia de aprendizaje para quienes interactúan con ella. Está implementada utilizando tecnologías modernas como React, Tailwind CSS y Flowbite.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aquí hay una descripción más detallada de cada una de estas tecnologías:
 
-## Available Scripts
+React: React es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario. Es especialmente útil para crear aplicaciones web de una sola página (Single Page Applications) debido a su enfoque en la creación de componentes reutilizables y su eficiente manipulación del DOM virtual. En el contexto de tu aplicación, React proporciona la estructura y la lógica para manejar la interfaz de usuario, gestionar el estado de la aplicación y manejar eventos como el encriptado y desencriptado de texto.
 
-In the project directory, you can run:
+Tailwind CSS: Tailwind CSS es un framework de CSS utilizable mediante clases que se utiliza para diseñar y estilizar aplicaciones web. A diferencia de otros frameworks de CSS como Bootstrap, Tailwind CSS proporciona una serie de clases de utilidad predefinidas que permiten diseñar de manera más rápida y flexible, sin necesidad de escribir CSS personalizado. En tu aplicación, Tailwind CSS seguramente se utiliza para dar estilo a los diferentes elementos de la interfaz de usuario, como los botones, los campos de entrada de texto y otros componentes.
 
-### `npm start`
+Flowbite: Flowbite es una librería que se construye sobre Tailwind CSS y proporciona componentes adicionales y estilos predefinidos para agilizar el proceso de diseño y desarrollo de aplicaciones web. Estos componentes pueden incluir elementos como barras de navegación, tarjetas, modales y más. En tu aplicación, es posible que Flowbite se utilice para agregar componentes de interfaz de usuario adicionales y estilizados, lo que ayuda a mejorar la apariencia y la usabilidad de la aplicación.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+En resumen, la aplicación es un proyecto educativo que utiliza tecnologías modernas como React, Tailwind CSS y Flowbite para crear un encriptador que permite a los usuarios cifrar y descifrar palabras, frases u oraciones. Está diseñada para brindar una experiencia práctica de aprendizaje sobre el desarrollo web front-end y las herramientas y prácticas actuales en este campo.
